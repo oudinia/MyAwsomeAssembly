@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <Version>0.1.0</Version>
+	  <Authors>Oussama Dinia</Authors>
+	  <Company>EI - Oussama Dinia</Company>
+	  <Description>My Awsome Library</Description>
+	  <RepositoryUrl>http://github.com/oudinia/MyAwsomeLibrary</RepositoryUrl>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
